@@ -39,7 +39,7 @@ A patient report has the following fields:
 
 1. Clone this repository.
 2. Run `npm install` to install dependencies.
-3. Set up your environment variables in a `.env` file. (Refer to the provided example).
+3. Set up your environment variables in a `.env` file. 
 4. Run the application using `npm start`.
 5. Use Postman or any API testing tool to make requests to the API endpoints.
 
